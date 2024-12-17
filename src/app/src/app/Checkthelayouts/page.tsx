@@ -2,15 +2,9 @@ import Navbar from "../components/Navbar";
 import Image from "next/image";
 
 // Import images
-<<<<<<< HEAD
-import Image1 from '/home/muaaz/Desktop/Governor Sindh IT/Quarter 2/Class01/my-app/app/Checkthelayouts/Product Details.png';
-import Image2 from '/home/muaaz/Desktop/Governor Sindh IT/Quarter 2/Class01/my-app/app/Checkthelayouts/Product v3.png';
-import Image3 from '/home/muaaz/Desktop/Governor Sindh IT/Quarter 2/Class01/my-app/app/Checkthelayouts/Product v3 (1).png';
-=======
 import Image1 from './Product Details.png';
 import Image2 from './Product v3.png';
 import Image3 from './Product v3 (1).png';
->>>>>>> 848bafc (assignments')
 
 export default function Checkthelayouts() {
   // Reusable image settings
