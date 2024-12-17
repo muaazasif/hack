@@ -2,13 +2,8 @@ import Navbar from "../components/Navbar";
 import Image from "next/image";
 
 // Import images
-<<<<<<< HEAD
 import EmailSignupImage from './Email sign-up.png';
 // import AnotherImage from './AnotherImage.png'; // Example image
-=======
-import EmailSignupImage from '/home/muaaz/Desktop/Governor Sindh IT/Quarter 2/Class01/my-app/app/Usethecontentblocks/Email sign-up.png';
-import AnotherImage from '/home/muaaz/Desktop/Governor Sindh IT/Quarter 2/Class01/my-app/app/Usethecontentblocks/AnotherImage.png'; // Example image
->>>>>>> 055f8a015a714b7f0ae0bf531a4e210965d11483
 
 export default function Usethecontentblocks() {
   return (
@@ -40,11 +35,7 @@ export default function Usethecontentblocks() {
         </div>
 
         {/* Another Image Example */}
-<<<<<<< HEAD
         {/* <div className="flex justify-center w-full">
-=======
-        <div className="flex justify-center w-full">
->>>>>>> 055f8a015a714b7f0ae0bf531a4e210965d11483
           <Image
             src={AnotherImage}
             alt="Another Example"
@@ -52,11 +43,7 @@ export default function Usethecontentblocks() {
             height={300}
             className="rounded-lg shadow-lg mb-6"
           />
-<<<<<<< HEAD
         </div> */}
-=======
-        </div>
->>>>>>> 055f8a015a714b7f0ae0bf531a4e210965d11483
       </div>
     </div>
   );
