@@ -19,6 +19,8 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< HEAD
+=======
 
 @layer utilities {
   .text-balance {
@@ -112,3 +114,4 @@ body {
 .animate-pulse {
   animation: pulse 1.5s ease-in-out infinite; /* Repeat the pulse animation indefinitely */
 }
+>>>>>>> 055f8a015a714b7f0ae0bf531a4e210965d11483
